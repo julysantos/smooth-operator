@@ -1,0 +1,7 @@
+.model
+.venv
+*.log
+
+input/*
+output/*
+
